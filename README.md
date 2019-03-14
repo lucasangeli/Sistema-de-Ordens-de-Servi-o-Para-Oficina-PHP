@@ -1,4 +1,4 @@
-# Sistema-de-Ordens-de-Servi-o-Para-Oficina-PHP
+# Sistema de Ordens de Serviço em PHP e MYSQL
 
 Estou fazendo esse sistema no 5° período da faculdade (2019) para a matéria de estágio.
 A proposta desse estágio é fazer um sistema simples para gerar ordens de serviço dentro da oficina do meu pai.
